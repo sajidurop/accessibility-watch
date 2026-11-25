@@ -1,0 +1,13 @@
+{
+  "name": "accessibility-watch",
+  "version": "1.0.0",
+  "description": "Find the barriers your users hit.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
